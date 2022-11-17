@@ -1,0 +1,54 @@
+
+~~~ test 0 ~~~
+original values are:
+dest:	o
+src:	hhh
+after strcpy fuction:
+fnrt:	hhh
+dest:	hhh
+src:	hhh
+
+~~~ test 1 ~~~
+original values are:
+dest:	ww
+src:	ffff
+after strcpy fuction:
+fnrt:	ffff
+dest:	ffff
+src:	ffff
+
+~~~ test 2 ~~~
+original values are:
+dest:	tttttttttt
+src:	vvvvvvv
+after strcpy fuction:
+fnrt:	vvvvvvv
+dest:	vvvvvvv
+src:	vvvvvvv
+
+~~~ test 3 ~~~
+original values are:
+dest:	iiiii
+src:	nnnnnnnnn
+after strcpy fuction:
+fnrt:	nnnnnnnnn
+dest:	nnnnnnnnn
+src:	nnnnnnnnn
+
+~~~ test 4 ~~~
+original values are:
+dest:	
+src:	ssssss
+after strcpy fuction:
+fnrt:	ssssss
+dest:	ssssss
+src:	ssssss
+
+~~~ test 5 ~~~
+original values are:
+dest:	hhh
+src:	
+after strcpy fuction:
+fnrt:	
+dest:	
+src:	

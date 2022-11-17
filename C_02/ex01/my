@@ -1,0 +1,79 @@
+~ strlcpy function ~
+origi vals are:
+n:	5
+dest:	nnnnnnnnn
+src:	eeeeeeee
+
+fn rtn:	nnnnneee
+dest:	nnnnneee
+src:	nnnnnnnnn
+
+~~~ test 0 ~~~
+original values are:
+n:	5
+dest:	eeeeeeee
+src:	nnnnnnnnn
+after strcpy fuction:
+fnrt:	nnnnneee
+dest:	nnnnneee
+src:	nnnnnnnnn
+
+~~~ test 0 ~~~
+original values are:
+n:	2
+dest:	o
+src:	hhh
+after strcpy fuction:
+fnrt:	hhww
+dest:	hhww
+src:	hhh
+
+~~~ test 1 ~~~
+original values are:
+n:	3
+dest:	ww
+src:	ffff
+after strcpy fuction:
+fnrt:	fffhhh
+dest:	fffhhh
+src:	ffff
+
+~~~ test 2 ~~~
+original values are:
+n:	2
+dest:	tttttttttt
+src:	vvvvvvv
+after strcpy fuction:
+fnrt:	vvtttttttt
+dest:	vvtttttttt
+src:	vvvvvvv
+
+~~~ test 3 ~~~
+original values are:
+n:	2
+dest:	iiiii
+src:	nnnnnnnnn
+after strcpy fuction:
+fnrt:	nniii
+dest:	nniii
+src:	nnnnnnnnn
+
+~~~ test 4 ~~~
+original values are:
+n:	3
+dest:	
+src:	ssssss
+after strcpy fuction:
+fnrt:	sssww
+dest:	sssww
+src:	ssssss
+
+~~~ test 5 ~~~
+original values are:
+n:	3
+dest:	hhh
+src:	
+after strcpy fuction:
+fnrt:	
+dest:	
+src:	

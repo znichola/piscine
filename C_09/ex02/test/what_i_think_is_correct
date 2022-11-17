@@ -1,0 +1,78 @@
+test 1 "			  " " 	"
+tab start
+tab end
+
+test 2 "	 		 		" " 	"
+tab start
+tab end
+
+test 3 "ROGMtbA" "ROGMtbA"
+tab start
+tab end
+
+test 4 "hjlyI	BP" "hjlyI	BP"
+tab start
+tab end
+
+test 5 "aPlYtLEObCQpOs gn4sf 8xtrb7BUTn6fw529JZ" "OpS"
+tab start
+tab[0]: "aPlYtLE"
+tab[1]: "bCQ"
+tab[2]: "s gn4sf 8xtrb7BUTn6fw529JZ"
+tab end
+
+test 6 "o5x4Fh8PRCtiEnG8G1Nwg9D3lAydYNYTPOf9E" "P1iBQwU"
+tab start
+tab[0]: "o5x4Fh8"
+tab[1]: "RCt"
+tab[2]: "EnG8G"
+tab[3]: "N"
+tab[4]: "g9D3lAydYNYT"
+tab[5]: "Of9E"
+tab end
+
+test 7 "uIEKKitwKUeDrnB4pjk8r	Fhwv9Xq6t5v8F" "3Iftk"
+tab start
+tab[0]: "u"
+tab[1]: "EKKi"
+tab[2]: "wKUeDrnB4pj"
+tab[3]: "8r	Fhwv9Xq6"
+tab[4]: "5v8F"
+tab end
+
+test 8 "wNBGxJJUe4XyItW7pTwwWlnI6KAp4" "6d0Skt"
+tab start
+tab[0]: "wNBGxJJUe4XyI"
+tab[1]: "W7pTwwWlnI"
+tab[2]: "KAp4"
+tab end
+
+test 9 "4yNoDtgczv6136T0JKMXbvJHuwcbXy3u01 bsOsBDdBLAN" "5pxkJ	Uy"
+tab start
+tab[0]: "4"
+tab[1]: "NoDtgczv6136T0"
+tab[2]: "KMXbv"
+tab[3]: "HuwcbX"
+tab[4]: "3u01 bsOsBDdBLAN"
+tab end
+
+test 10 "Q2uPWwYUgSnWdgA	MK SEdBxSFq8i2o" "Lmg7"
+tab start
+tab[0]: "Q2uPWwYU"
+tab[1]: "SnWd"
+tab[2]: "A	MK SEdBxSFq8i2o"
+tab end
+
+test 11 "  gh  " " gh"
+tab start
+tab end
+
+test 12 "  gh  " " "
+tab start
+tab[0]: "gh"
+tab end
+
+test 13 "mSErQ9t6nlObFEA81IGU72lEv8Ht58QsJl eBydoh4" ""
+tab start
+tab[0]: "mSErQ9t6nlObFEA81IGU72lEv8Ht58QsJl eBydoh4"
+tab end
